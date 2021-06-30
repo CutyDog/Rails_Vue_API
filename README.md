@@ -16,3 +16,14 @@ rails_vue_api
 * Database
 ```development : sqlite3 ~> 1.4```
 
+* Rails start
+
+```
+rails s
+```
+
+* Vue start
+
+```
+npm run serve
+```
