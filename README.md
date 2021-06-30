@@ -29,5 +29,5 @@ npm run serve
 ```
 
 
-** Reference
+***Reference***
 https://qiita.com/youichiro/items/2987cd9b4ab29691eb77#%E5%AE%8C%E6%88%90
