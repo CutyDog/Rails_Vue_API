@@ -17,16 +17,11 @@ rails_vue_api
 ```development : sqlite3 ~> 1.4```
 
 * Rails start
-
-```
-rails s
-```
+```rails s```
 
 * Vue start
+```npm run serve```
 
-```
-npm run serve
-```
 
 
 ***Reference***
